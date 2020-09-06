@@ -1,0 +1,2 @@
+model_checkpoint_path: "predictweb"
+all_model_checkpoint_paths: "predictweb"

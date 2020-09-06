@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75ef8188-83de-4cdc-a749-5267a729cbf6" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="echartsTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aW67r8u0VGk4jQcByY5LQK2TvM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Halo\PycharmProjects\echartsTest\txttypeset\split\split_data" />
+      <recent name="C:\Users\Halo\PycharmProjects\echartsTest\unittest" />
+      <recent name="C:\Users\Halo\PycharmProjects\echartsTest" />
+      <recent name="C:\Users\Halo\PycharmProjects\echartsTest\CoolQApi" />
+      <recent name="C:\Users\Halo\PycharmProjects\echartsTest\train" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Halo\PycharmProjects\echartsTest\unittest" />
+      <recent name="C:\Users\Halo\PycharmProjects\echartsTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="echartsTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emailtool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="echartsTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emailtool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="echartsTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rulegetter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="echartsTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rulegetter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="echartsTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.rulegetter" />
+      <item itemvalue="Python.emailtool" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.gan" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.gan" />
+        <item itemvalue="Python.rulegetter" />
+        <item itemvalue="Python.emailtool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ef8188-83de-4cdc-a749-5267a729cbf6" name="默认更改列表" comment="" />
+      <created>1586838837870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586838837870</updated>
+      <workItem from="1586838839229" duration="33595000" />
+      <workItem from="1586911799458" duration="28663000" />
+      <workItem from="1586994313811" duration="2000" />
+      <workItem from="1587300876219" duration="3223000" />
+      <workItem from="1587347972196" duration="4070000" />
+      <workItem from="1587478029886" duration="6773000" />
+      <workItem from="1587533616074" duration="39000" />
+      <workItem from="1587601806861" duration="12343000" />
+      <workItem from="1587643996934" duration="13674000" />
+      <workItem from="1587658337691" duration="2901000" />
+      <workItem from="1587662573608" duration="599000" />
+      <workItem from="1587693881578" duration="33178000" />
+      <workItem from="1587780687444" duration="26134000" />
+      <workItem from="1587910992225" duration="8969000" />
+      <workItem from="1587920322519" duration="2772000" />
+      <workItem from="1587952097063" duration="20840000" />
+      <workItem from="1587983009180" duration="10241000" />
+      <workItem from="1587995996109" duration="7321000" />
+      <workItem from="1588167664517" duration="14210000" />
+      <workItem from="1588203667744" duration="471000" />
+      <workItem from="1588204151883" duration="10593000" />
+      <workItem from="1588293983237" duration="7958000" />
+      <workItem from="1588302101920" duration="713000" />
+      <workItem from="1588304942904" duration="5757000" />
+      <workItem from="1588384203655" duration="3334000" />
+      <workItem from="1588476170296" duration="7482000" />
+      <workItem from="1588498889223" duration="1069000" />
+      <workItem from="1588500010588" duration="8211000" />
+      <workItem from="1588567217086" duration="1906000" />
+      <workItem from="1588585004076" duration="1038000" />
+      <workItem from="1588594337280" duration="167000" />
+      <workItem from="1588594518376" duration="6713000" />
+      <workItem from="1588608201166" duration="1287000" />
+      <workItem from="1588819168464" duration="10911000" />
+      <workItem from="1588896084491" duration="86000" />
+      <workItem from="1588913036324" duration="7411000" />
+      <workItem from="1588989952965" duration="3709000" />
+      <workItem from="1589087297604" duration="758000" />
+      <workItem from="1589115107455" duration="8888000" />
+      <workItem from="1589160093090" duration="1298000" />
+      <workItem from="1589188064666" duration="730000" />
+      <workItem from="1589204969202" duration="5322000" />
+      <workItem from="1589239882411" duration="7574000" />
+      <workItem from="1589272895440" duration="2710000" />
+      <workItem from="1589338311582" duration="15000" />
+      <workItem from="1589363079230" duration="4490000" />
+      <workItem from="1589413491007" duration="11555000" />
+      <workItem from="1589513739491" duration="32000" />
+      <workItem from="1589515666809" duration="408000" />
+      <workItem from="1589595627641" duration="2508000" />
+      <workItem from="1589782856934" duration="10372000" />
+      <workItem from="1589897704401" duration="411000" />
+      <workItem from="1589942066845" duration="24031000" />
+      <workItem from="1590019309323" duration="4067000" />
+      <workItem from="1590066583358" duration="253000" />
+      <workItem from="1590071513194" duration="693000" />
+      <workItem from="1590198975218" duration="12188000" />
+      <workItem from="1590476829501" duration="54000" />
+      <workItem from="1591428602823" duration="6780000" />
+      <workItem from="1591511446212" duration="2331000" />
+      <workItem from="1591532528787" duration="972000" />
+      <workItem from="1591547141370" duration="5481000" />
+      <workItem from="1591697478078" duration="1223000" />
+      <workItem from="1591759013472" duration="3773000" />
+      <workItem from="1591782975293" duration="10000" />
+      <workItem from="1591839400257" duration="1542000" />
+      <workItem from="1591850946944" duration="2900000" />
+      <workItem from="1591944820599" duration="616000" />
+      <workItem from="1591959340235" duration="30000" />
+      <workItem from="1592107291483" duration="2862000" />
+      <workItem from="1592120272561" duration="7000" />
+      <workItem from="1592143492604" duration="759000" />
+      <workItem from="1592218576601" duration="7757000" />
+      <workItem from="1592465425266" duration="9092000" />
+      <workItem from="1592484866617" duration="1041000" />
+      <workItem from="1592486239949" duration="2567000" />
+      <workItem from="1592541273775" duration="2698000" />
+      <workItem from="1592551535839" duration="5372000" />
+      <workItem from="1592570376582" duration="5901000" />
+      <workItem from="1592576299761" duration="5076000" />
+      <workItem from="1592615688370" duration="8972000" />
+      <workItem from="1592647556653" duration="11275000" />
+      <workItem from="1592706599850" duration="7874000" />
+      <workItem from="1592895760178" duration="57000" />
+      <workItem from="1593478257379" duration="12026000" />
+      <workItem from="1593513055428" duration="733000" />
+      <workItem from="1593560138487" duration="7854000" />
+      <workItem from="1593606151543" duration="3735000" />
+      <workItem from="1593647546945" duration="9810000" />
+      <workItem from="1593682671530" duration="3185000" />
+      <workItem from="1593734055246" duration="8168000" />
+      <workItem from="1593791966272" duration="38000" />
+      <workItem from="1593820303441" duration="156000" />
+      <workItem from="1593820778760" duration="10352000" />
+      <workItem from="1593906925011" duration="10919000" />
+      <workItem from="1593994422173" duration="876000" />
+      <workItem from="1594081138538" duration="1673000" />
+      <workItem from="1594140719590" duration="703000" />
+      <workItem from="1594166540882" duration="2441000" />
+      <workItem from="1594208543618" duration="703000" />
+      <workItem from="1594217655492" duration="1557000" />
+      <workItem from="1594221291714" duration="1837000" />
+      <workItem from="1594249776098" duration="2060000" />
+      <workItem from="1594367292553" duration="1111000" />
+      <workItem from="1594384402410" duration="2068000" />
+      <workItem from="1594442562505" duration="2094000" />
+      <workItem from="1594799261859" duration="5470000" />
+      <workItem from="1595427178794" duration="33000" />
+      <workItem from="1596195493783" duration="16851000" />
+      <workItem from="1596212512457" duration="13129000" />
+      <workItem from="1596251742093" duration="2258000" />
+      <workItem from="1596254326511" duration="19000" />
+      <workItem from="1596386168058" duration="2522000" />
+      <workItem from="1596417162705" duration="5916000" />
+      <workItem from="1596458162265" duration="1391000" />
+      <workItem from="1596553388280" duration="109000" />
+      <workItem from="1596708339006" duration="3410000" />
+      <workItem from="1596809176143" duration="599000" />
+      <workItem from="1596970387191" duration="153000" />
+      <workItem from="1596970560050" duration="16000" />
+      <workItem from="1597072249229" duration="617000" />
+      <workItem from="1597155214323" duration="4984000" />
+      <workItem from="1597226734797" duration="1626000" />
+      <workItem from="1597243195090" duration="1107000" />
+      <workItem from="1597245947952" duration="2082000" />
+      <workItem from="1597290276084" duration="1676000" />
+      <workItem from="1597422820646" duration="21000" />
+      <workItem from="1597465422025" duration="365000" />
+      <workItem from="1598190561888" duration="5813000" />
+      <workItem from="1598317075301" duration="5906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592576367171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592576367171" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593648786041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593648786041" />
+    <state x="785" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593566105479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593566105479" />
+    <state x="722" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593652297280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1593652297280" />
+    <state x="403" y="263" key="FileChooserDialogImpl" timestamp="1597465784986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="403" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597465784986" />
+    <state width="1762" height="368" key="GridCell.Tab.0.bottom" timestamp="1598325564166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="368" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598325564166" />
+    <state width="1762" height="368" key="GridCell.Tab.0.center" timestamp="1598325564166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="368" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598325564166" />
+    <state width="1762" height="368" key="GridCell.Tab.0.left" timestamp="1598325564166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="368" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598325564166" />
+    <state width="1762" height="368" key="GridCell.Tab.0.right" timestamp="1598325564166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="368" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598325564166" />
+    <state width="1424" height="277" key="GridCell.Tab.1.bottom" timestamp="1589994587143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589994587143" />
+    <state width="1424" height="277" key="GridCell.Tab.1.center" timestamp="1589994587143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589994587143" />
+    <state width="1424" height="277" key="GridCell.Tab.1.left" timestamp="1589994587143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589994587143" />
+    <state width="1424" height="277" key="GridCell.Tab.1.right" timestamp="1589994587143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1424" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589994587143" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1593830524668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1593830524668" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1592648228538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592648228538" />
+    <state x="455" y="231" width="719" height="538" key="find.popup" timestamp="1596220097612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="231" width="719" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596220097612" />
+    <state x="902" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1592618335883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="902" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592618335883" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/echartsTest$datacenter.coverage" NAME="datacenter Coverage Results" MODIFIED="1589596606545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_tgunittest_py.coverage" NAME="Unittests in tgunittest.py Coverage Results" MODIFIED="1594179000239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_datetime_minus_datime.coverage" NAME="Unittests for tgunittest.TestCase.test_datetime_minus_datime Coverage Results" MODIFIED="1593738266646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_acunittest_py.coverage" NAME="Unittests in acunittest.py Coverage Results" MODIFIED="1594081242545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$emailtool.coverage" NAME="emailtool Coverage Results" MODIFIED="1596419071597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_remove_point_dirs.coverage" NAME="Unittests for fhunittest.TestCase.test_remove_point_dirs Coverage Results" MODIFIED="1593565893760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_createDir.coverage" NAME="Unittests for fhunittest.TestCase.test_createDir Coverage Results" MODIFIED="1593565890078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_appendfile.coverage" NAME="Unittests for fhunittest.TestCase.test_appendfile Coverage Results" MODIFIED="1593566002447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_dlist_sort_byidlist.coverage" NAME="Unittests for rgunittest.TestCase.test_dlist_sort_byidlist Coverage Results" MODIFIED="1593650993612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_get_dir_infos.coverage" NAME="Unittests for fhunittest.TestCase.test_get_dir_infos Coverage Results" MODIFIED="1593565655747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$unrelation.coverage" NAME="unrelation Coverage Results" MODIFIED="1587918189859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_clientunittest_TestCase.coverage" NAME="Unittests for clientunittest.TestCase Coverage Results" MODIFIED="1593561857532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_get_path_file_completebasename.coverage" NAME="Unittests for fhunittest.TestCase.test_get_path_file_completebasename Coverage Results" MODIFIED="1593654188206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_get_path_file_append.coverage" NAME="Unittests for fhunittest.TestCase.test_get_path_file_append Coverage Results" MODIFIED="1593564647672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_datetime_minus_seconds.coverage" NAME="Unittests for tgunittest.TestCase.test_datetime_minus_seconds Coverage Results" MODIFIED="1593911594756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_getfilelines.coverage" NAME="Unittests for fhunittest.TestCase.test_getfilelines Coverage Results" MODIFIED="1593564640692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_unittest_rg_TestCase_test_get_csv_baseinfo.coverage" NAME="Unittests for unittest.rgunittest.TestCase.test_get_csv_baseinfo Coverage Results" MODIFIED="1593607922631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_swtunittest_py.coverage" NAME="Unittests in swtunittest.py Coverage Results" MODIFIED="1594081582248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_shunittest_TestCase_test_judgesuitexep.coverage" NAME="Unittests for shunittest.TestCase.test_judgesuitexep Coverage Results" MODIFIED="1593654693505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_string_to_datetime.coverage" NAME="Unittests for tgunittest.TestCase.test_string_to_datetime Coverage Results" MODIFIED="1593738342899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_fhunittest_py.coverage" NAME="Unittests in fhunittest.py Coverage Results" MODIFIED="1594081341777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$calculate.coverage" NAME="calculate Coverage Results" MODIFIED="1586869416117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$networkhandle.coverage" NAME="networkhandle Coverage Results" MODIFIED="1587968270366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_cqunittest_py.coverage" NAME="Unittests in cqunittest.py Coverage Results" MODIFIED="1594081294481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_csv_reader.coverage" NAME="Unittests for fhunittest.TestCase.test_csv_reader Coverage Results" MODIFIED="1593565395279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_acunittest_WidgetTestCase_test_pdframe_readcsv.coverage" NAME="Unittests for acunittest.WidgetTestCase.test_pdframe_readcsv Coverage Results" MODIFIED="1593487943306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$receiver.coverage" NAME="receiver Coverage Results" MODIFIED="1596253901839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_get_rule_total.coverage" NAME="Unittests for rgunittest.TestCase.test_get_rule_total Coverage Results" MODIFIED="1593651269243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_remove_in_dirs.coverage" NAME="Unittests for fhunittest.TestCase.test_remove_in_dirs Coverage Results" MODIFIED="1593566196248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$arraychanger.coverage" NAME="arraychanger Coverage Results" MODIFIED="1593487533483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_get_enmin_csv_infos.coverage" NAME="Unittests for rgunittest.TestCase.test_get_enmin_csv_infos Coverage Results" MODIFIED="1593653969461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_predict_csv.coverage" NAME="Unittests for rgunittest.TestCase.test_predict_csv Coverage Results" MODIFIED="1593653358793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_get_traininfos.coverage" NAME="Unittests for rgunittest.TestCase.test_get_traininfos Coverage Results" MODIFIED="1593648109138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_clientunittest_TestCase_test_cl_get_csv_nodedata.coverage" NAME="Unittests for clientunittest.TestCase.test_cl_get_csv_nodedata Coverage Results" MODIFIED="1593561829965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_etunittest_py.coverage" NAME="Unittests in etunittest.py Coverage Results" MODIFIED="1594081333373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_rgunittest_py.coverage" NAME="Unittests in rgunittest.py Coverage Results" MODIFIED="1594081443921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$gan.coverage" NAME="gan Coverage Results" MODIFIED="1597465637446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase.coverage" NAME="Unittests for rgunittest.TestCase Coverage Results" MODIFIED="1593647789564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$GA.coverage" NAME="GA Coverage Results" MODIFIED="1586862969254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_handle_csvinfo_tostandard.coverage" NAME="Unittests for rgunittest.TestCase.test_handle_csvinfo_tostandard Coverage Results" MODIFIED="1593608524162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_load_rules_pointer.coverage" NAME="Unittests for rgunittest.TestCase.test_load_rules_pointer Coverage Results" MODIFIED="1593607021465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_get_path_file_subpath.coverage" NAME="Unittests for fhunittest.TestCase.test_get_path_file_subpath Coverage Results" MODIFIED="1593654180828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_acunittest_TestCase.coverage" NAME="Unittests for acunittest.TestCase Coverage Results" MODIFIED="1593488066455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_predict_to_csv.coverage" NAME="Unittests for rgunittest.TestCase.test_predict_to_csv Coverage Results" MODIFIED="1593653779890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_cqunittest_TestCase_test_send_group_msg.coverage" NAME="Unittests for cqunittest.TestCase.test_send_group_msg Coverage Results" MODIFIED="1594217679745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_get_timeticks.coverage" NAME="Unittests for tgunittest.TestCase.test_get_timeticks Coverage Results" MODIFIED="1593737234385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$client.coverage" NAME="client Coverage Results" MODIFIED="1598325545414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_get_all_files.coverage" NAME="Unittests for fhunittest.TestCase.test_get_all_files Coverage Results" MODIFIED="1593565038337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_get_ticks_to_date.coverage" NAME="Unittests for tgunittest.TestCase.test_get_ticks_to_date Coverage Results" MODIFIED="1593737511073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_csv_waringinfos_fcfs.coverage" NAME="Unittests for rgunittest.TestCase.test_csv_waringinfos_fcfs Coverage Results" MODIFIED="1594081379097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_etunittest_TestCase.coverage" NAME="Unittests for etunittest.TestCase Coverage Results" MODIFIED="1593563650413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_remove_file.coverage" NAME="Unittests for fhunittest.TestCase.test_remove_file Coverage Results" MODIFIED="1593566021087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_dcunittest_TestCase.coverage" NAME="Unittests for dcunittest.TestCase Coverage Results" MODIFIED="1593563050082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_get_timestr_to_week.coverage" NAME="Unittests for tgunittest.TestCase.test_get_timestr_to_week Coverage Results" MODIFIED="1593737430209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_change_time_format.coverage" NAME="Unittests for tgunittest.TestCase.test_change_time_format Coverage Results" MODIFIED="1593737136342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$receiver__1_.coverage" NAME="receiver Coverage Results" MODIFIED="1592578099326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_acunittest_WidgetTestCase.coverage" NAME="Unittests for acunittest.WidgetTestCase Coverage Results" MODIFIED="1593487815174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_get_all_dirs.coverage" NAME="Unittests for fhunittest.TestCase.test_get_all_dirs Coverage Results" MODIFIED="1593565047740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_get_rule_descript.coverage" NAME="Unittests for rgunittest.TestCase.test_get_rule_descript Coverage Results" MODIFIED="1593651287092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_outfile.coverage" NAME="Unittests for fhunittest.TestCase.test_outfile Coverage Results" MODIFIED="1593566005025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_dcunittest_py.coverage" NAME="Unittests in dcunittest.py Coverage Results" MODIFIED="1594081323158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_clientunittest_py.coverage" NAME="Unittests in clientunittest.py Coverage Results" MODIFIED="1594081281546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_cqunittest_TestCase.coverage" NAME="Unittests for cqunittest.TestCase Coverage Results" MODIFIED="1593562741914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$count_repetition.coverage" NAME="count_repetition Coverage Results" MODIFIED="1589374165209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_get_csv_root.coverage" NAME="Unittests for rgunittest.TestCase.test_get_csv_root Coverage Results" MODIFIED="1593653590019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_get_format_localtime.coverage" NAME="Unittests for tgunittest.TestCase.test_get_format_localtime Coverage Results" MODIFIED="1593737021315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$filehandle.coverage" NAME="filehandle Coverage Results" MODIFIED="1588173180189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_csv_remove_repeat.coverage" NAME="Unittests for fhunittest.TestCase.test_csv_remove_repeat Coverage Results" MODIFIED="1593565404274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_get_noformat_localtime.coverage" NAME="Unittests for tgunittest.TestCase.test_get_noformat_localtime Coverage Results" MODIFIED="1593736893234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_datetime_minus_days.coverage" NAME="Unittests for tgunittest.TestCase.test_datetime_minus_days Coverage Results" MODIFIED="1593737615442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$coolq_pyapi.coverage" NAME="coolq_pyapi Coverage Results" MODIFIED="1593735448434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_train_model.coverage" NAME="Unittests for rgunittest.TestCase.test_train_model Coverage Results" MODIFIED="1593647758750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase.coverage" NAME="Unittests for tgunittest.TestCase Coverage Results" MODIFIED="1593737687045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_ishave_index.coverage" NAME="Unittests for rgunittest.TestCase.test_ishave_index Coverage Results" MODIFIED="1593651516214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$knnweb.coverage" NAME="knnweb Coverage Results" MODIFIED="1586881189846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$webFindout.coverage" NAME="webFindout Coverage Results" MODIFIED="1587601985689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_shunittest_TestCase_test_getstringexep.coverage" NAME="Unittests for shunittest.TestCase.test_getstringexep Coverage Results" MODIFIED="1593654567021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_get_nowtimeticks.coverage" NAME="Unittests for tgunittest.TestCase.test_get_nowtimeticks Coverage Results" MODIFIED="1593736888425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$echartsTest.coverage" NAME="echartsTest Coverage Results" MODIFIED="1589597055858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_acunittest_WidgetTestCase_test_list_from_pdframe.coverage" NAME="Unittests for acunittest.WidgetTestCase.test_list_from_pdframe Coverage Results" MODIFIED="1593487542093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_rgunittest_TestCase_test_get_warninginfo_node.coverage" NAME="Unittests for rgunittest.TestCase.test_get_warninginfo_node Coverage Results" MODIFIED="1593607359603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_swtunittest_TestCase_test_kmeans_spiltouttxtfile.coverage" NAME="Unittests for swtunittest.TestCase.test_kmeans_spiltouttxtfile Coverage Results" MODIFIED="1593736320033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase.coverage" NAME="Unittests for fhunittest.TestCase Coverage Results" MODIFIED="1593564389285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_clientunittest_TestCase_test_cl_get_csv_nodesys.coverage" NAME="Unittests for clientunittest.TestCase.test_cl_get_csv_nodesys Coverage Results" MODIFIED="1593561889393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_tgunittest_TestCase_test_get_timestr_to_timestamp.coverage" NAME="Unittests for tgunittest.TestCase.test_get_timestr_to_timestamp Coverage Results" MODIFIED="1593737890268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$rulegetter.coverage" NAME="rulegetter Coverage Results" MODIFIED="1596708886454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$splitwordtype.coverage" NAME="splitwordtype Coverage Results" MODIFIED="1586876600615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_fhunittest_TestCase_test_get_files_by_types.coverage" NAME="Unittests for fhunittest.TestCase.test_get_files_by_types Coverage Results" MODIFIED="1593566341398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$wordvec.coverage" NAME="wordvec Coverage Results" MODIFIED="1586964304144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$server.coverage" NAME="server Coverage Results" MODIFIED="1598324824974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_swtunittest_TestCase_test_kmeans_spiltoutbystr.coverage" NAME="Unittests for swtunittest.TestCase.test_kmeans_spiltoutbystr Coverage Results" MODIFIED="1593736520732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_for_unittest_rg_TestCase.coverage" NAME="Unittests for rgunittest.TestCase Coverage Results" MODIFIED="1593608279533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/echartsTest$Unittests_in_shunittest_py.coverage" NAME="Unittests in shunittest.py Coverage Results" MODIFIED="1594081525776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+﻿filename,root_node,triggername
+0,0,0
+1,node_87,主机node_87 日志中有OutOfMemoryError信息
+2,0,0
+3,0,0
+4,0,0
+5,0,0
+6,node_44,主机node_44 Nginx 80端口的连接数大于2000
+7,node_50,主机node_50 硬盘Slot 00状态为Failed
+8,node_69,主机node_69 日志报错:无法获取连接
+9,node_54,主机node_54 网卡流量unknown
+10,0,0
+11,0,0
+12,node_41,主机node_41 端口8080通信异常
+13,node_40,主机node_40 端口8080通信异常
+14,0,0
+15,node_71,主机node_71 日志报错:无法获取连接
+16,node_87,主机node_87 Nginx 80端口的连接数大于2000
+17,0,0
+18,0,0
+19,0,0
