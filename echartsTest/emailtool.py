@@ -14,7 +14,7 @@ from email.header import Header
 
 # 发信方的信息：发信邮箱，QQ 邮箱授权码
 from_addr = '351642983@qq.com'
-password = 'nczxxsmvuiegcbag'
+password = 'QQ 邮箱授权码'#这里请更换成你的qq邮箱和对应的授权码
 # 发信服务器
 smtp_server = 'smtp.qq.com'
 
