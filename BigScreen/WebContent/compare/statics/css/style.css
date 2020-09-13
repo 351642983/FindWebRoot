@@ -1,0 +1,205 @@
+@charset "utf-8";
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    color: #666;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    cursor: default;
+}
+.module-line {
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px
+}
+.module-line span {
+    display: inline-block;
+*display: inline;
+*zoom: 1
+}
+.module-line .text {
+    font-size: 26px;
+    color: #4c4c4c;
+    margin: 0 10px
+}
+.module-line .arrow {
+    width: 84px;
+    height: 16px
+}
+.module-line .left-arrow {
+    background: url(../images/leftArrow.png)
+}
+.module-line .right-arrow {
+    background: url(../images/rightArrow.png)
+}
+.module-privilege {
+    width: 1100px;
+    height: 410px;
+    margin: 10px auto 40px;
+    position: relative
+}
+.module-privilege .privilege-ul {
+    float: left;
+    border: 1px solid #d3d1d0;
+    background: #fff;
+    width: 273px;
+    position: absolute
+}
+.module-privilege .privilege-ul.name-ul {
+    left: 0
+}
+.module-privilege .privilege-ul.svip-ul {
+    left: 275px;
+    color: #ca963b;
+    -moz-box-shadow: 0 0 10px 2px rgba(0, 0, 0, .08);
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, .08)
+}
+.module-privilege .privilege-ul.vip-ul {
+    left: 548px;
+    border-right: 0
+}
+.module-privilege .privilege-ul.no-vip-ul {
+    left: 822px
+}
+.module-privilege .privilege-ul .privilege-item {
+    text-align: center;
+    height: 45px;
+    line-height: 45px;
+    font-size: 14px
+}
+.module-privilege .privilege-ul .privilege-item a {
+    color: #666;
+    display: block;
+    width: 100%;
+    height: 100%
+}
+.module-privilege .privilege-ul .privilege-item.first-item {
+    height: 85px;
+    padding-top: 20px
+}
+.module-privilege .privilege-ul .privilege-item.first-item .buy-button-base {
+    margin-top: 14px
+}
+.module-privilege .privilege-ul .privilege-item .title, .module-privilege .privilege-ul .privilege-item .svip-type {
+    font-size: 20px
+}
+.module-privilege .privilege-ul .privilege-item .title .vip-type-icon, .module-privilege .privilege-ul .privilege-item .svip-type .vip-type-icon {
+    display: inline-block;
+*display: inline;
+*zoom: 1;
+    vertical-align: middle;
+    height: 30px
+}
+.module-privilege .privilege-ul .privilege-item .title .vip-type-title, .module-privilege .privilege-ul .privilege-item .svip-type .vip-type-title {
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    vertical-align: middle
+}
+.module-privilege .privilege-ul .privilege-item .vip-type, .module-privilege .privilege-ul .privilege-item .no-vip-type {
+    font-size: 20px;
+    margin-top: -4px
+}
+.module-privilege .privilege-ul .privilege-item .vip-type .vip-type-icon, .module-privilege .privilege-ul .privilege-item .no-vip-type .vip-type-icon {
+    display: inline-block;
+*display: inline;
+*zoom: 1;
+    vertical-align: middle;
+    height: 30px
+}
+.module-privilege .privilege-ul .privilege-item .vip-type .vip-type-title, .module-privilege .privilege-ul .privilege-item .no-vip-type .vip-type-title {
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    vertical-align: middle
+}
+.module-privilege .privilege-ul .privilege-item .icon {
+    display: inline-block;
+*display: inline;
+*zoom: 1;
+    width: 20px;
+    height: 20px
+}
+.module-privilege .privilege-ul .privilege-item .icon.right {
+    margin-top: 12px;
+    background-image: url(../images/right.png);
+    background-repeat: no-repeat
+}
+.module-privilege .privilege-ul .privilege-item .icon.error {
+    margin-top: 15px;
+    background-image: url(../images/error.png);
+    background-repeat: no-repeat
+}
+.module-privilege .privilege-ul.recommend {
+    background-image: url(../images/recommend.png);
+    background-position: -1px -1px;
+    background-repeat: no-repeat
+}
+.module-privilege .privilege-ul.active {
+    border-color: #f2ddaf;
+    background-color: #fffaeb;
+    margin-top: -4px;
+    width: 285px;
+    left: 269px;
+    z-index: 10
+}
+.module-privilege .privilege-ul.active .privilege-item.first-item {
+    height: 91px
+}
+.module-privilege .privilege-ul.active .privilege-item.last-item {
+    height: 49px
+}
+.icon-size-middle {
+    width: 30px;
+    height: 30px;
+}
+.vip-icon, .buy-btn-box {
+    display: inline-block;
+}
+.vip-icon.svip-middle {
+    background-image: url(../images/level2.png);
+    background-repeat: no-repeat;
+}
+.vip-icon.vip-middle {
+    background-image: url(../images/level1.png);
+    background-repeat: no-repeat;
+}
+.vip-icon.no-vip-middle {
+    background-image: url(../images/level0.png);
+    background-repeat: no-repeat;
+}
+.center-button-container-middle {
+    width: 120px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 15px;
+}
+.center-button-light-red {
+    border: 1px solid rgba(228, 88, 88, .5);
+    color: #e45858;
+}
+.center-button-light-red:hover {
+    border: 1px solid #e45858;
+}
+.center-button-light-yellow {
+    border: 1px solid #f9d681;
+    background-color: #f9d681;
+    color: #351d06;
+}
+.center-button-light-yellow:hover {
+    background-color: #e7c062;
+}
+.center-button-base {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 5px;
+}

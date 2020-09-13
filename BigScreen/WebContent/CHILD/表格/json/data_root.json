@@ -1,0 +1,40 @@
+{
+   "code":0,"count":11,"data":
+   [      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-24 11:24"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/1.csv","info":"'日志中有OutOfMemoryError信息'","node":"87","pre":"0.9966745158078206","ptime":"2019-06-24 11:24","sys":"8","time":"'2019-06-24 11:24:57'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-13 17:14"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/6.csv","info":"'Nginx 80端口的连接数大于2000'","node":"44","pre":"0.9944062174846081","ptime":"2019-06-13 17:14","sys":"9","time":"'2019-06-13 17:14:08'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-06 18:30"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/7.csv","info":"'硬盘Slot 00状态为Failed'","node":"50","pre":"0.995632586543638","ptime":"2019-06-06 18:30","sys":"1","time":"'2019-06-06 18:30:47'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-24 22:36"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/8.csv","info":"'Nginx 80端口的连接数大于2000'","node":"20","pre":"0.994686071532521","ptime":"2019-06-24 22:36","sys":"3","time":"'2019-06-24 22:36:56'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-28 07:06"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/9.csv","info":"'网卡流量unknown'","node":"54","pre":"0.9902133693146098","ptime":"2019-06-28 07:06","sys":"7","time":"'2019-06-28 07:06:16'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-25 05:44"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/12.csv","info":"'端口8080通信异常'","node":"41","pre":"1.0","ptime":"2019-06-25 05:44","sys":"8","time":"'2019-06-25 05:44:49'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-15 05:05"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/13.csv","info":"'端口8080通信异常'","node":"40","pre":"1.0","ptime":"2019-06-15 05:05","sys":"10","time":"'2019-06-15 05:05:00'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-13 13:13"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/15.csv","info":"'日志报错:无法获取连接'","node":"71","pre":"0.9364215160192709","ptime":"2019-06-13 13:13","sys":"8","time":"'2019-06-13 13:13:44'"
+      },      {
+         "file":"","info":"","node":"","pre":"","ptime":-1,"sys":"","time":"2019-06-17 07:17"
+      },{
+         "file":"C:/Users/Halo/Desktop/test/16.csv","info":"'Nginx 80端口的连接数大于2000'","node":"87","pre":"0.997507836689036","ptime":"2019-06-17 07:17","sys":"8","time":"'2019-06-17 07:17:27'"
+      }   ],"msg":"ok"
+}
